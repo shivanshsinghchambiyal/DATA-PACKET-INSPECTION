@@ -9,7 +9,7 @@ Features-
  6. Forwarded and Dropped Packet Tracking
  7. Total Packet and Byte Monitoring
  8. Real-Time Traffic Processing Reports
- 9 .Firewall-Style Console Output
+ 9. Firewall-Style Console Output
 How It Works-
 -The user defines blocking rules for specific domains or applications.
 -The DPI engine processes incoming packets.
