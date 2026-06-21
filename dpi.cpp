@@ -140,12 +140,10 @@ int main()
     int rules;
 
     cout << "====================================================\n";
-    cout << "          DPI ENGINE v2.0 (Multi-threaded)\n";
+    cout << "                  DPI ENGINE \n";
     cout << "====================================================\n\n";
 
-    cout << "Load Balancers: 2    "
-         << "FPs per LB: 2    "
-         << "Total FPs: 4\n";
+    
 
     cout << "\nEnter number of blocking rules: ";
     cin >> rules;
