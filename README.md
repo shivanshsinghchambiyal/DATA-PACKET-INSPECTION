@@ -138,6 +138,6 @@ This project helped in understanding:
 - Dashboard Visualization
 - Packet Queue Management
 
-## Author
+
 
 Developed as a networking and cybersecurity project to demonstrate packet inspection, traffic filtering, and rule-based traffic management using C++.
